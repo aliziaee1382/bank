@@ -1,0 +1,6 @@
+{
+  "name": "پوزیتیو بانک - بانکداری نوین و دیجیتال",
+  "description": "وب‌سایت شرکتی بانکداری نوین با تم اختصاصی نئوبروتالیست، خدمات مالی، اینترنت بانک و محاسبه‌گر تسهیلات",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
